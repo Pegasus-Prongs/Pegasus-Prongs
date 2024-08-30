@@ -1,4 +1,5 @@
 👋 Hi, I'm Pegasus Prongs.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 I'm a passionate frontend developer with a strong background in React and Next.js, dedicated to crafting sleek, responsive, and user-friendly web applications. 
 I've been freelancing, diving deeper into the world of web development and blockchain technology.
 
