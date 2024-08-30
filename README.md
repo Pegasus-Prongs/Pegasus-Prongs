@@ -6,11 +6,11 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Pegasus-Prongs&color=brightgreen)
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
+- 💻 I love exploring new tech stacks like Blockchain and Smart Contract and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn Cloud on AWS and Azure.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
