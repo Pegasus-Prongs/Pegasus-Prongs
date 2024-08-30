@@ -71,14 +71,3 @@
 <a href="https://stardev.io/developers/said7388"><img alt="Check out Pegasus-Prongs's profile on stardev.io" src="https://stardev.io/developers/Pegasus-Prongs/badge/languages/locality.svg" /></a>
 
 ---
-
-
-### Top Repositories
-
-
-<a href="https://github.com/said7388/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
-</a>
