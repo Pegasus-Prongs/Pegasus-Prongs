@@ -54,10 +54,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasus-Prongs&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
----
 
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/said7388"><img alt="Check out Pegasus-Prongs's profile on stardev.io" src="https://stardev.io/developers/Pegasus-Prongs/badge/languages/locality.svg" /></a>
-
----
