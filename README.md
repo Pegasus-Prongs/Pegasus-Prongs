@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Pegasus+Prongs+SAID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sanil+SAID....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -42,7 +42,7 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pegasus-Prongs&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pegasus-Prongs&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Sanil's GitHub status" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pegasus-Prongs&theme=algolia" alt="said7388" />
