@@ -39,17 +39,6 @@
 
 ---
 
-### My Github Stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pegasus-Prongs&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Sanil's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pegasus-Prongs&theme=algolia" alt="said7388" />
-</p>
-
----
-
 ### Top Usage Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasus-Prongs&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
