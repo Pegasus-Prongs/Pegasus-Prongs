@@ -4,10 +4,10 @@ I'm a **web3 and full-stack developer** passionate about crafting innovative app
 
 ## 🛠️ Technologies
 
-- **Frontend:** React, Next.js, Tailwind CSS
+- **Frontend:** React, Next.js, GatsBy, Vue, Nuxt.js Tailwind CSS
 - **Backend:** Node.js, Express, Nest.js
-- **Databases:** MongoDB, MySQL
-- **Blockchain:** Solana, Ethereum, Smart Contracts, Rust
+- **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, Supabase
+- **Blockchain:** Solana, Ethereum, Smart Contracts, Rust, Solidity
 
 ## 🚀 Featured Projects
 
