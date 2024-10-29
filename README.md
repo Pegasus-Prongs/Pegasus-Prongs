@@ -17,7 +17,7 @@ A customizable slider component for seamless integration in web apps.
 ### [RealEstate](https://github.com/Pegasus-Prongs/RealEstate)
 A full-stack app for listing and managing real estate properties.
 
-### [SaaS Landing](https://github.com/Pegasus-Prongs/SaaS-Landing)
+### [SaaS Landing](https://github.com/Pegasus-Prongs/SaaSLanding)
 A modern landing page template for SaaS products.
 
 ### [NFT Market](https://github.com/Pegasus-Prongs/NFT_market)
