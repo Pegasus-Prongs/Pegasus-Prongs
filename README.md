@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Pegasus Prongs!
 
-<!--
-**Pegasus-Prongs/Pegasus-Prongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **web3 and full-stack developer** passionate about crafting innovative applications with cutting-edge technologies. I thrive on tackling challenges in modern web and blockchain development.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, Nest.js
+- **Databases:** MongoDB, MySQL
+- **Blockchain:** Solana, Ethereum, Smart Contracts, Rust
+
+## 🚀 Featured Projects
+
+### [Next Slider](https://github.com/Pegasus-Prongs/next_slider)
+A customizable slider component for seamless integration in web apps.
+
+### [RealEstate](https://github.com/Pegasus-Prongs/RealEstate)
+A full-stack app for listing and managing real estate properties.
+
+### [SaaS Landing](https://github.com/Pegasus-Prongs/SaaS-Landing)
+A modern landing page template for SaaS products.
+
+### [NFT Market](https://github.com/Pegasus-Prongs/NFT_market)
+An NFT marketplace for creating, buying, and selling digital art and music.
+
+---
+
+Thanks for visiting! Let’s create something amazing together! 🌟
