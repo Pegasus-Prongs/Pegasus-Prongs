@@ -8,6 +8,8 @@ I'm a **web3 and full-stack developer** passionate about crafting innovative app
 - **Backend:** Node.js, Express, Nest.js
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, Supabase
 - **Blockchain:** Solana, Ethereum, Smart Contracts, Rust, Solidity
+- **AI:** Open AI integration
+- **Stipe**
 
 ## 🚀 Featured Projects
 
