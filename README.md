@@ -9,7 +9,7 @@ I'm a **web3 and full-stack developer** passionate about crafting innovative app
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, Supabase
 - **Blockchain:** Solana, Ethereum, Smart Contracts, Rust, Solidity
 - **AI:** Open AI integration
-- **Stipe**
+- **Stripe**
 
 ## 🚀 Featured Projects
 
