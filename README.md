@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pegasus Prongs!
+# 👋 Hi, I'm Sanil!
 
 I'm a **web3 and full-stack developer** passionate about crafting innovative applications with cutting-edge technologies. I thrive on tackling challenges in modern web and blockchain development.
 
